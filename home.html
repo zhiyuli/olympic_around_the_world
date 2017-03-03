@@ -1,0 +1,403 @@
+<!-- This is a simple html page demonstrating adding a map to a page -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!-- The style sheet here has some of the map styling for zooming buttons, etc. -->    
+    <link rel="stylesheet" href="./ol/v3.2.1/css/ol.css" type="text/css">   <link rel="stylesheet" href="myres/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="myres/bootstrap-responsive.min.css" type="text/css">
+    <link rel="stylesheet" href="main.css" type="text/css">       
+    <!-- Specify the title for this web page that will appear in the browser title/tab area. -->
+    <title>Olympics Around The World/</title>
+  </head>
+<style>
+.map{
+height:500px;
+width:100%;	
+}
+</style> 
+<body>
+  	<!-- Show some information to the user using basic HTML -->
+ 	<div class="navbar navbar-simple navbar-default">
+	<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span1"><img src="myres/logo.png" /></div>
+			
+				 <div class="span3"><h1 class="brand" href="#">Olympics Around the World</h1></div>
+	        		<div class="nav-collapse collapse">
+	        	<ul class="nav">
+	            	<li><a href="home.html">Home</a></li>
+	                <li><a href="about.html">About</a></li>
+	                <li><a href="contact.html">Contact</a></li>
+	             </ul>
+	     	</div><!--/.nav-collapse -->
+	     </div>
+	</div>
+</div>
+</div>
+        	<div class="span9 offset5">
+        	<!--Toggle layers-->
+        	<div class="row-fluid">
+   		<div>
+           	   &nbsp&nbsp <input type="checkbox" onClick="vector_summer.setVisible(!vector_summer.getVisible());"  id="ch_summer" name="summer" checked>Summer 
+         	   &nbsp&nbsp <input type="checkbox" onClick="vector_winter.setVisible(!vector_winter.getVisible());"  id="ch_winter" name="winter" checked>Winter 
+          	   &nbsp&nbsp <input type="checkbox" onClick="vector_relay_route.setVisible(!vector_relay_route.getVisible());"  id="ch_SLC2002" name="SLC2002" checked>SLC 2002 Torch Relay Route
+          	   &nbsp&nbsp <input type="checkbox" onClick="slc_2002_torch.setVisible(!slc_2002_torch.getVisible());"  id="ch_none" name="none" checked>Relay Stops
+            	</div>
+        	</div>
+        	</div>
+        <div class="row-fluid">
+        <div class="span4">	   	
+    	    <button type="button"  onClick="startRelay()" class="btn btn-success">Start the Olympic Torch Relay</button>
+            <button type="button"  onClick="stopRelay()" class="btn btn-success">Stop the Olympic Torch Relay</button>
+        </div>
+        <div class="span4">
+    	    <button type="button" id="asia" onClick="setContinent(this.id)" class="btn btn-success">Asia</button>
+    	    <button type="button" id="europe" onClick="setContinent(this.id)" class="btn btn-success">Europe</button>
+    	    <button type="button" id="australia" onClick="setContinent(this.id)" class="btn btn-success">Australia</button>
+    	    <button type="button" id="northamerica" onClick="setContinent(this.id)" class="btn btn-success">North America</button>
+    	    <button type="button" id="southamerica" onClick="setContinent(this.id)" class="btn btn-success">South America</button>    	   
+        </div>
+            <div class="span4">
+            <button type="button"  id="rotate-around-rome" class="btn btn-success">Rotate Around Rome</button>
+            <button type="button"  id="pan-to-london" class="btn btn-success">Pan to London</button>
+    	    <button type="button"  id="bounce-to-sydney" class="btn btn-success">Bounce to Sydney</button>
+        </div>   
+        	
+       	 </div>     
+        </div>
+
+        <!-- Specify a div tag area that will hold the map itself. -->
+   	 <div id="map" class="map">
+         <div id="popup" class="ol-popup" opacity=0.5>
+			<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+			<div id="popup-content"></div>
+		 </div>
+	</div>
+
+<!-- Here we link to the copy of the OpenLayers JavaScript source file that is on the openlayers.org site. -->
+    
+<script src="./ol/v3.2.1/build/ol.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+
+var container = document.getElementById('popup');
+var content = document.getElementById('popup-content');
+var closer = document.getElementById('popup-closer');
+var counter = 0;
+var ti= null;
+
+
+closer.onclick = function() {
+  overlay.setPosition(undefined);
+  closer.blur();
+  return false;
+};
+
+
+
+var overlay = new ol.Overlay({
+  element: container
+});
+
+
+var projection = ol.proj.get('EPSG:3857');
+
+
+var rasterLayer = new ol.layer.Tile({
+  source: new ol.source.BingMaps({
+	imagerySet: 'Aerial',
+    			key: 'Ak-dzM4wZjSqTlzveKz5u0d4IQ4bRzVI309GxmkgSVr1ewS6iPSrOvOKhA-CJlm3',
+	crossOrigin: 'anonymous'
+  })
+});
+      
+var tiledLayer = new ol.layer.Tile({source: new ol.source.OSM()});
+
+
+var us_states_vec= new ol.layer.Vector({
+	source: new ol.source.KML({
+		projection: projection,				
+		url: './myres/kml/us_states.kml'
+	}),
+	opacity: 0.5		
+});
+
+var slc_2002_torch= new ol.layer.Vector({
+	source: new ol.source.KML({
+		projection: projection,				
+		url: './myres/kml/torch.kml'
+	})		
+});
+
+                        
+
+var vector_summer = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/summer2.kml'
+                        })
+                        });
+                       
+                        
+var vector_winter = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/winter2.kml'
+                        })
+                        });                        		
+var vector_relay_route = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/relay_route.kml'
+                        })
+                        });
+
+var display_continent=null;
+var vector_asia = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/asia.kml'
+                        }),
+                       opacity: 0.7                       
+                        });	
+vector_asia.setVisible(false);
+vector_asia.name='asia';
+
+var vector_australia = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/australia.kml'
+                        }),
+                       opacity: 0.7                       
+                        });	
+vector_australia.setVisible(false);
+vector_australia.name='australia';
+
+var vector_europe = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/europe.kml'
+                        }),
+                       opacity: 0.7                       
+                        });	
+vector_europe.setVisible(false);
+vector_europe.name='europe';
+
+var vector_northamerica = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/northamerica.kml'
+                        }),
+                       opacity: 0.7                       
+                        });	
+vector_northamerica.setVisible(false);
+vector_northamerica.name='northamerica';
+
+var vector_southamerica = new ol.layer.Vector({
+                        source: new ol.source.KML({
+                        projection: projection,
+                        url: './myres/kml/southamerica.kml'
+                        }),
+                       opacity: 0.7                       
+                        });	
+vector_southamerica.setVisible(false);
+vector_southamerica.name='southamerica';
+
+//All our variables for the fancy animations
+var rome = ol.proj.transform([12.5, 41.9], 'EPSG:4326', 'EPSG:3857');
+var london = ol.proj.transform([-0.12755, 51.507222], 'EPSG:4326', 'EPSG:3857');  
+var sydney = ol.proj.transform([151.2094, -33.8650], 'EPSG:4326', 'EPSG:3857');
+
+
+var view = new ol.View({
+    center: ol.proj.transform([0,41], 'EPSG:4326', 'EPSG:3857'),
+    zoom: 2
+    });
+    
+    
+//Creating the map
+var map = new ol.Map({
+  layers: [tiledLayer , vector_asia,  vector_southamerica,  vector_europe,  vector_australia,  vector_northamerica, us_states_vec, slc_2002_torch, vector_summer, vector_winter,vector_relay_route],
+  overlays: [overlay],
+  target: 'map',
+  view: view 
+});
+
+
+
+map.on('click', function(evt) {
+  
+  //Try to get a feature at the point of interest
+  var feature = map.forEachFeatureAtPixel(evt.pixel,
+	  function(feature, layer) {
+		return feature;
+	  },null, function(layer) {
+  return (layer === vector_summer) || (layer === vector_winter);
+});
+	  
+	 
+	  
+  //if we found a feature then create and show the popup.
+  if (feature) {
+	var geometry = feature.getGeometry();
+	var coord = geometry.getCoordinates();
+	overlay.setPosition(coord);
+	var displaycontent = '<b>Host City:</b> ' + feature.get('city')+ '<br><b>Country:</b>' +feature.get('country')+ '<br><b>Opening Ceremony:</b>' +feature.get('openning')+ '<br><b>Year:</b> ' + feature.get('year');
+	content.innerHTML = displaycontent;
+  }
+});
+
+//rotate around rome function
+
+var rotateAroundRome = document.getElementById('rotate-around-rome');
+rotateAroundRome.addEventListener('click', function() {
+  var currentRotation = view.getRotation();
+  var rotateAroundRome = ol.animation.rotate({
+    anchor: rome,
+    duration: 1000,
+    rotation: currentRotation
+  });
+  map.beforeRender(rotateAroundRome);
+  view.rotate(currentRotation + (Math.PI / 2), rome);
+}, false);
+
+var panToLondon = document.getElementById('pan-to-london');
+panToLondon.addEventListener('click', function() {
+  var pan = ol.animation.pan({
+    duration: 2000,
+    source: /** @type {ol.Coordinate} */ (view.getCenter())
+  });
+  map.beforeRender(pan);
+  view.setCenter(london);
+}, false);
+
+
+//bounce to Sydney
+function bounce(t) {
+  var s = 7.5625, p = 2.75, l;
+  if (t < (1 / p)) {
+    l = s * t * t;
+  } else {
+    if (t < (2 / p)) {
+      t -= (1.5 / p);
+      l = s * t * t + 0.75;
+    } else {
+      if (t < (2.5 / p)) {
+        t -= (2.25 / p);
+        l = s * t * t + 0.9375;
+      } else {
+        t -= (2.625 / p);
+        l = s * t * t + 0.984375;
+      }
+    }
+  }
+  return l;
+}
+
+//Exectuing the bouncing
+var bounceToSydney = document.getElementById('bounce-to-sydney');
+bounceToSydney.addEventListener('click', function() {
+  var pan = ol.animation.pan({
+    duration: 2000,
+    easing: bounce,
+    source: /** @type {ol.Coordinate} */ (view.getCenter())
+  });
+  map.beforeRender(pan);
+  view.setCenter(sydney);
+}, false);
+
+//Start the torch relay
+function startRelay()
+{
+if(ti==null)
+{
+ti=setInterval(function(){relay()},1000);
+}
+}
+
+
+//Torch relay function
+function relay()
+{
+  myFeature = vector_relay_route.getSource().getFeatures()[0];
+
+  myCoords = myFeature.getGeometry().getCoordinates();
+  
+  pnt_index= myCoords.length-1-counter  % myCoords.length
+   
+  
+  curCoord = myCoords[pnt_index];
+  
+  overlay.setPosition(curCoord);
+  
+  var pxl=map.getPixelFromCoordinate(curCoord);
+  //alert(pxl);
+  var feature = map.forEachFeatureAtPixel(pxl,
+	  function(feature, layer) {
+		return feature;
+	  },null, function(layer) {
+  return (layer === slc_2002_torch);
+});
+	  
+ 
+	  
+  //if we found a feature then create and show the popup. 
+
+  if (feature) { 
+	
+	var geometry = feature.getGeometry();
+	var coord = geometry.getCoordinates();
+	overlay.setPosition(coord);
+	var displaycontent = feature.get('name');
+	content.innerHTML = displaycontent;
+  }
+
+
+  
+  content.innerHTML = '<p><img src="myres/torch2.png"  width="60" height="150"></p>' + content.innerHTML ; 
+  map.render();
+  counter=counter + 1
+
+}
+//Stop the torch relay
+function stopRelay()
+{
+  if (ti!=null)
+  {
+  clearInterval(ti);
+  ti=null;
+  }
+}
+
+//Setting continents
+function setContinent(cont)
+{
+layers=map.getLayers().a;
+//Now check for the name of the layer
+	for (var i=0; i < layers.length; i++) 
+	{
+		
+             if (layers[i].name==cont) 
+		{
+			
+			if(display_continent)
+			{
+			display_continent.setVisible(false);
+			}
+			layers[i].setVisible(true);
+			display_continent=layers[i];
+                       //zoom to the layer extents
+			map.getView().fitExtent(layers[i].getSource().getExtent(), map.getSize());
+
+		}
+		
+	}
+}
+
+</script>
+</body>
+</html>

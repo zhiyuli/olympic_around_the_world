@@ -1,0 +1,7914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="data">
+  <name>data</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>data</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Athens</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Athens</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Athens</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>37.983917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>23.729353</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Greece</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1896</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Apr-06</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.72935277777778,37.98391666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Paris</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Paris</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Paris</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>48.856611</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>2.352225</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> France</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1900</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>May-14</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.352225,48.85661111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>St. Louis</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>St. Louis</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>St. Louis</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>38.627006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-90.199364</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1904</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-01</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -90.1993638888889,38.62700555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>London</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.507186</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-0.125814</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United Kingdom</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1908</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Apr-27</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1258138888888889,51.50718611111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Stockholm</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Stockholm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Stockholm</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>59.329317</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>18.068561</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Sweden</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1912</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>May-05</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 18.06856111111111,59.32931666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Berlin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Berlin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Berlin</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>52.520014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>13.404958</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Germany</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1916</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Cancelled due to WWI</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 13.40495833333333,52.52001388888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Antwerp</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Antwerp</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Antwerp</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.219464</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>4.402583</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Belgium</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1920</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Apr-20</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 4.402583333333333,51.21946388888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Chamonix</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chamonix</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Chamonix</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>45.923697</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>6.869433</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> France</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1924</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jan-25</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.869433333333334,45.92369722222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Paris</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Paris</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Paris</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>48.856614</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>2.352222</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> France</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1924</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>May-04</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.352222222222222,48.85661388888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>St. Moritz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>St. Moritz</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>St. Moritz</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>46.4951</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>9.836142</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td>  Switzerland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1928</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-11</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 9.836141666666668,46.4951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Amsterdam</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Amsterdam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Amsterdam</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>52.370197</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>4.895183</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Netherlands</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1928</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>May-17</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 4.895183333333333,52.37019722222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Lake Placid</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lake Placid</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lake Placid</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>44.279492</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-73.979869</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1932</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-04</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.97986944444445,44.27949166666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Los Angeles</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Los Angeles</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Los Angeles</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>34.052233</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-118.243686</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1932</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-30</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -118.2436861111111,34.05223333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Garmisch-Partenkirchen</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Garmisch-Partenkirchen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Garmisch-Partenkirchen</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>47.491694</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>11.095497</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Germany</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>IV</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1936</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-06</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 11.09549722222222,47.49169444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Berlin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Berlin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Berlin</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>52.519689</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>13.4048</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Germany</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1936</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-01</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 13.4048,52.51968888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Sapporo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sapporo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sapporo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>43.062094</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>141.354375</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1940</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Cancelled due to WWII</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.354375,43.06209444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>35.689489</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>139.691706</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1940</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Cancelled due to WWII</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.6917055555556,35.68948888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Cortina d'Ampezzo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cortina d'Ampezzo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Cortina d'Ampezzo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>46.540469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>12.135667</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Italy</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1944</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Cancelled due to WWII</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 12.13566666666667,46.54046944444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>London</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.507328</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-0.127697</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United Kingdom</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1944</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Cancelled due to WWII</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1276972222222222,51.50732777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>St. Moritz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>St. Moritz</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>St. Moritz</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>46.495136</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>9.836075</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td>  Switzerland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1948</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jan-30</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 9.836075000000001,46.49513611111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>London</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.507328</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-0.127697</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United Kingdom</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1948</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-29</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1276972222222222,51.50732777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Oslo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Oslo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Oslo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>59.913769</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>10.752236</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Norway</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1952</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-14</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 10.75223611111111,59.91376944444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Helsinki</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Helsinki</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Helsinki</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>60.173306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>24.939914</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Finland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1952</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-19</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.93991388888889,60.17330555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Cortina d'Ampezzo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cortina d'Ampezzo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Cortina d'Ampezzo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>46.540472</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>12.135653</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Italy</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jan-26</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 12.13565277777778,46.54047222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Melbourne</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Melbourne</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Melbourne</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>-37.814106</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>144.963275</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Australia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Oceania</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Nov-22</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 144.963275,-37.81410555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Stockholm</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Stockholm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Stockholm</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>59.329308</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>18.068658</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Sweden</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jun-10</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 18.06865833333333,59.32930833333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Squaw Valley</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Squaw Valley</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Squaw Valley</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>39.195467</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-120.235172</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1960</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-18</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -120.2351722222222,39.19546666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Rome</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rome</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Rome</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>41.902783</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>12.496364</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Italy</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1960</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-25</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 12.49636388888889,41.90278333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Innsbruck</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Innsbruck</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Innsbruck</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>47.269211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>11.404103</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Austria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>IX</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1964</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jan-29</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 11.40410277777778,47.26921111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>35.689489</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>139.691692</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1964</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Oct-10</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.6916916666667,35.68948888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Grenoble</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Grenoble</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Grenoble</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>45.188528</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>5.724525</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> France</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1968</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-06</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 5.724525,45.18852777777777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Mexico City</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mexico City</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Mexico City</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>19.432608</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-99.133208</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Mexico</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1968</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Oct-12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.13320833333333,19.43260833333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Sapporo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sapporo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sapporo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>43.062018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>141.352361</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1972</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-03</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.352361,43.062018,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Munich</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Munich</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Munich</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>48.135123</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>11.582115</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> West Germany</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1972</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-26</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 11.582115,48.135123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Innsbruck</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Innsbruck</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Innsbruck</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>47.269212</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>11.404102</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Austria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1976</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-04</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 11.404102,47.269212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Montreal</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Montreal</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Montreal</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>45.501689</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-73.567256</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Canada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1976</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-17</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.567256,45.501689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Lake Placid</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lake Placid</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lake Placid</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>44.279508</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-73.979866</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1980</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.979866,44.279508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Moscow</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Moscow</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Moscow</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>55.755826</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>37.6173</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Soviet Union</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1980</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-19</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 37.6173,55.755826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Sarajevo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sarajevo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sarajevo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>43.85637</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>18.413238</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Yugoslavia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1984</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-07</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 18.413238,43.85637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Los Angeles</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Los Angeles</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Los Angeles</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>34.052234</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-118.243685</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1984</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-28</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -118.243685,34.052234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Calgary</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Calgary</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Calgary</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.048615</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-114.070846</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Canada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1988</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-13</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -114.070846,51.048615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Seoul</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Seoul</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Seoul</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>37.566535</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>126.977969</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> South Korea</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1988</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Sep-17</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 126.977969,37.566535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Albertville</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Albertville</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Albertville</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>45.234375</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-93.650695</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> France</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1992</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-08</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -93.650695,45.234375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Barcelona</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Barcelona</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Barcelona</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>41.385064</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>2.173404</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Spain</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1992</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-25</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.173404,41.385064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Lillehammer</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lillehammer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lillehammer</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>61.115271</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>10.466231</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Norway</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1994</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 10.466231,61.115271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Atlanta</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Atlanta</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Atlanta</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>33.748999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-84.387968</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1996</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-19</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -84.387968,33.748999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Nagano</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Nagano</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Nagano</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>36.64855</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>138.194243</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>1998</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-07</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.194243,36.64855,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Sydney</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sydney</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sydney</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>-33.867431</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>151.206977</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Australia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Oceania</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2000</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Sep-15</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 151.206977,-33.867431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Salt Lake City</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Salt Lake City</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Salt Lake City</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>40.760501</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-111.891729</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United States</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-08</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -111.891729,40.760501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Athens</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Athens</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Athens</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>37.983917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>23.72936</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Greece</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2004</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-13</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.72936,37.983917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Turin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Turin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Turin</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>45.070157</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>7.687231</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Italy</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-10</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 7.687231,45.070157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Beijing</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Beijing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Beijing</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>39.904211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>116.407395</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> China</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-08</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 116.407395,39.904211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Vancouver</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vancouver</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Vancouver</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>49.282727</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-123.120788</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Canada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>North America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.120788,49.282727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>London</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>London</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>51.507351</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-0.127758</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> United Kingdom</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-27</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.127758,51.507351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Sochi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sochi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sochi</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>43.585446</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>39.719458</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Russia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Europe</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-07</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 39.719458,43.585446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Rio de Janeiro</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio de Janeiro</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Rio de Janeiro</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>-22.906847</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>-43.172896</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Brazil</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>South America</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Aug-05</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -43.172896,-22.906847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Pyeongchang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pyeongchang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Pyeongchang</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>37.370446</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>128.389047</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> South Korea</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Winter</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2018</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Feb-09</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 128.389047,37.370446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Tokyo</td>
+
+</tr>
+
+<tr>
+
+<td>Lan</td>
+
+<td>35.689488</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lon</td>
+
+<td>139.691706</td>
+
+</tr>
+
+<tr>
+
+<td>Country</td>
+
+<td> Japan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Continent</td>
+
+<td>Asia</td>
+
+</tr>
+
+<tr>
+
+<td>Summer</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Season</td>
+
+<td>Summer</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Year</td>
+
+<td>2020</td>
+
+</tr>
+
+<tr>
+
+<td>Opening_Ce</td>
+
+<td>Jul-24</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.691706,35.689488,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>myres/Layer0_Symbol_1234d7e0_0.png</href></Icon>
+      <scale>0.437500</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff000000</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="'Winter Olympics$' Events">
+		<name>'Winter Olympics$' Events</name>
+		<Snippet/>
+		<Folder id="FeatureLayer0">
+			<name>'Winter Olympics$' Events</name>
+			<Snippet/>
+			<Placemark id="ID_00000">
+				<name>Chamonix</name>
+				<Snippet/>
+				<ExtendedData>
+					<Data name="city">
+						<value>Chamonix</value>
+					</Data>
+					<Data name="lan">
+						<value>45.92369722</value>
+					</Data>
+					<Data name="lon">
+						<value>6.869433333</value>
+					</Data>
+					<Data name="country">
+						<value> France</value>
+					</Data>
+					<Data name="continent">
+						<value>Europe</value>
+					</Data>
+					<Data name="number">
+						<value>1</value>
+					</Data>
+					<Data name="year">
+						<value>1924</value>
+					</Data>
+					<Data name="openning">
+						<value>Jan-25</value>
+					</Data>
+				</ExtendedData>
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 6.869433333333334,45.92369722222222,1924</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>St. Moritz</name>
+				<Snippet/>
+				<ExtendedData>
+					<Data name="city">
+						<value>St. Moritz</value>
+					</Data>
+					<Data name="lan">
+						<value>46.4951</value>
+					</Data>
+					<Data name="lon">
+						<value>9.836141667</value>
+					</Data>
+					<Data name="country">
+						<value>  Switzerland</value>
+					</Data>
+					<Data name="continent">
+						<value>Europe</value>
+					</Data>
+					<Data name="number">
+						<value>2</value>
+					</Data>
+					<Data name="year">
+						<value>1928</value>
+					</Data>
+					<Data name="openning">
+						<value>Feb-11</value>
+					</Data>
+				</ExtendedData>
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 9.836141666666668,46.4951,1928</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Lake Placid</name>
+				<Snippet/>
+				<ExtendedData>
+					<Data name="city">
+						<value>Lake Placid</value>
+					</Data>
+					<Data name="lan">
+						<value>44.27949167</value>
+					</Data>
+					<Data name="lon">
+						<value>-73.97986944</value>
+					</Data>
+					<Data name="country">
+						<value> United States</value>
+					</Data>
+					<Data name="continent">
+						<value>North America</value>
+					</Data>
+					<Data name="number">
+						<value>3</value>
+					</Data>
+					<Data name="year">
+						<value>1932</value>
+					</Data>
+					<Data name="openning">
+						<value>Feb-04</value>
+					</Data>
+				</ExtendedData>
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -73.97986944444445,44.27949166666667,1932</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00003">
+				<name>Garmisch-Partenkirchen</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Garmisch-Partenkirchen</value>
+</Data>
+<Data name="lan">
+<value>47.49169444</value>
+</Data>
+<Data name="lon">
+<value>11.09549722</value>
+</Data>
+<Data name="country">
+<value> Germany</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>4</value>
+</Data>
+<Data name="year">
+<value>1936</value>
+</Data>
+<Data name="openning">
+<value>Feb-06</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 11.09549722222222,47.49169444444445,1936</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00004">
+				<name>Sapporo</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Sapporo</value>
+</Data>
+<Data name="lan">
+<value>43.06209444</value>
+</Data>
+<Data name="lon">
+<value>141.354375</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>5</value>
+</Data>
+<Data name="year">
+<value>1940</value>
+</Data>
+<Data name="openning">
+<value>Cancelled due to WWII</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 141.354375,43.06209444444444,1940</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00005">
+				<name>Cortina d'Ampezzo</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Cortina d'Ampezzo</value>
+</Data>
+<Data name="lan">
+<value>46.54046944</value>
+</Data>
+<Data name="lon">
+<value>12.13566667</value>
+</Data>
+<Data name="country">
+<value> Italy</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>5</value>
+</Data>
+<Data name="year">
+<value>1944</value>
+</Data>
+<Data name="openning">
+<value>Cancelled due to WWII</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 12.13566666666667,46.54046944444444,1944</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00006">
+				<name>St. Moritz</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>St. Moritz</value>
+</Data>
+<Data name="lan">
+<value>46.49513611</value>
+</Data>
+<Data name="lon">
+<value>9.836075</value>
+</Data>
+<Data name="country">
+<value>  Switzerland</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>5</value>
+</Data>
+<Data name="year">
+<value>1948</value>
+</Data>
+<Data name="openning">
+<value>Jan-30</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 9.836075000000001,46.49513611111112,1948</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00007">
+				<name>Oslo</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Oslo</value>
+</Data>
+<Data name="lan">
+<value>59.91376944</value>
+</Data>
+<Data name="lon">
+<value>10.75223611</value>
+</Data>
+<Data name="country">
+<value> Norway</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>6</value>
+</Data>
+<Data name="year">
+<value>1952</value>
+</Data>
+<Data name="openning">
+<value>Feb-14</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 10.75223611111111,59.91376944444444,1952</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00008">
+				<name>Cortina d'Ampezzo</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Cortina d'Ampezzo</value>
+</Data>
+<Data name="lan">
+<value>46.54047222</value>
+</Data>
+<Data name="lon">
+<value>12.13565278</value>
+</Data>
+<Data name="country">
+<value> Italy</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>7</value>
+</Data>
+<Data name="year">
+<value>1956</value>
+</Data>
+<Data name="openning">
+<value>Jan-26</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 12.13565277777778,46.54047222222222,1956</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00009">
+				<name>Squaw Valley</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Squaw Valley</value>
+</Data>
+<Data name="lan">
+<value>39.19546667</value>
+</Data>
+<Data name="lon">
+<value>-120.2351722</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>8</value>
+</Data>
+<Data name="year">
+<value>1960</value>
+</Data>
+<Data name="openning">
+<value>Feb-18</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -120.2351722222222,39.19546666666666,1960</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00010">
+				<name>Innsbruck</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Innsbruck</value>
+</Data>
+<Data name="lan">
+<value>47.26921111</value>
+</Data>
+<Data name="lon">
+<value>11.40410278</value>
+</Data>
+<Data name="country">
+<value> Austria</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>9</value>
+</Data>
+<Data name="year">
+<value>1964</value>
+</Data>
+<Data name="openning">
+<value>Jan-29</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 11.40410277777778,47.26921111111111,1964</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00011">
+				<name>Grenoble</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Grenoble</value>
+</Data>
+<Data name="lan">
+<value>45.18852778</value>
+</Data>
+<Data name="lon">
+<value>5.724525</value>
+</Data>
+<Data name="country">
+<value> France</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>10</value>
+</Data>
+<Data name="year">
+<value>1968</value>
+</Data>
+<Data name="openning">
+<value>Feb-06</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 5.724525,45.18852777777777,1968</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00012">
+				<name>Sapporo</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Sapporo</value>
+</Data>
+<Data name="lan">
+<value>43.062018</value>
+</Data>
+<Data name="lon">
+<value>141.352361</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>11</value>
+</Data>
+<Data name="year">
+<value>1972</value>
+</Data>
+<Data name="openning">
+<value>Feb-03</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 141.352361,43.062018,1972</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00013">
+				<name>Innsbruck</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Innsbruck</value>
+</Data>
+<Data name="lan">
+<value>47.269212</value>
+</Data>
+<Data name="lon">
+<value>11.404102</value>
+</Data>
+<Data name="country">
+<value> Austria</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>12</value>
+</Data>
+<Data name="year">
+<value>1976</value>
+</Data>
+<Data name="openning">
+<value>Feb-04</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 11.404102,47.269212,1976</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00014">
+				<name>Lake Placid</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Lake Placid</value>
+</Data>
+<Data name="lan">
+<value>44.279508</value>
+</Data>
+<Data name="lon">
+<value>-73.979866</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>13</value>
+</Data>
+<Data name="year">
+<value>1980</value>
+</Data>
+<Data name="openning">
+<value>Feb-12</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -73.979866,44.279508,1980</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00015">
+				<name>Sarajevo</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Sarajevo</value>
+</Data>
+<Data name="lan">
+<value>43.85637</value>
+</Data>
+<Data name="lon">
+<value>18.413238</value>
+</Data>
+<Data name="country">
+<value> Yugoslavia</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>14</value>
+</Data>
+<Data name="year">
+<value>1984</value>
+</Data>
+<Data name="openning">
+<value>Feb-07</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 18.413238,43.85637,1984</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00016">
+				<name>Calgary</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Calgary</value>
+</Data>
+<Data name="lan">
+<value>51.048615</value>
+</Data>
+<Data name="lon">
+<value>-114.070846</value>
+</Data>
+<Data name="country">
+<value> Canada</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>15</value>
+</Data>
+<Data name="year">
+<value>1988</value>
+</Data>
+<Data name="openning">
+<value>Feb-13</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -114.070846,51.048615,1988</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00017">
+				<name>Albertville</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Albertville</value>
+</Data>
+<Data name="lan">
+<value>45.234375</value>
+</Data>
+<Data name="lon">
+<value>-93.650695</value>
+</Data>
+<Data name="country">
+<value> France</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>16</value>
+</Data>
+<Data name="year">
+<value>1992</value>
+</Data>
+<Data name="openning">
+<value>Feb-08</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -93.650695,45.234375,1992</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00018">
+				<name>Lillehammer</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Lillehammer</value>
+</Data>
+<Data name="lan">
+<value>61.115271</value>
+</Data>
+<Data name="lon">
+<value>10.466231</value>
+</Data>
+<Data name="country">
+<value> Norway</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>17</value>
+</Data>
+<Data name="year">
+<value>1994</value>
+</Data>
+<Data name="openning">
+<value>Feb-12</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 10.466231,61.115271,1994</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00019">
+				<name>Nagano</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Nagano</value>
+</Data>
+<Data name="lan">
+<value>36.64855</value>
+</Data>
+<Data name="lon">
+<value>138.194243</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>18</value>
+</Data>
+<Data name="year">
+<value>1998</value>
+</Data>
+<Data name="openning">
+<value>Feb-07</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 138.194243,36.64855,1998</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00020">
+				<name>Salt Lake City</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Salt Lake City</value>
+</Data>
+<Data name="lan">
+<value>40.760501</value>
+</Data>
+<Data name="lon">
+<value>-111.891729</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>19</value>
+</Data>
+<Data name="year">
+<value>2002</value>
+</Data>
+<Data name="openning">
+<value>Feb-08</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -111.891729,40.760501,2002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00021">
+				<name>Turin</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Turin</value>
+</Data>
+<Data name="lan">
+<value>45.070157</value>
+</Data>
+<Data name="lon">
+<value>7.687231</value>
+</Data>
+<Data name="country">
+<value> Italy</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>20</value>
+</Data>
+<Data name="year">
+<value>2006</value>
+</Data>
+<Data name="openning">
+<value>Feb-10</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 7.687231,45.070157,2006</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00022">
+				<name>Vancouver</name>
+				<Snippet/>
+			<ExtendedData>
+<Data name="city">
+<value>Vancouver</value>
+</Data>
+<Data name="lan">
+<value>49.282727</value>
+</Data>
+<Data name="lon">
+<value>-123.120788</value>
+</Data>
+<Data name="country">
+<value> Canada</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>21</value>
+</Data>
+<Data name="year">
+<value>2010</value>
+</Data>
+<Data name="openning">
+<value>Feb-12</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> -123.120788,49.282727,2010</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00023">
+				<name>Sochi</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Sochi</value>
+</Data>
+<Data name="lan">
+<value>43.585446</value>
+</Data>
+<Data name="lon">
+<value>39.719458</value>
+</Data>
+<Data name="country">
+<value> Russia</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>22</value>
+</Data>
+<Data name="year">
+<value>2014</value>
+</Data>
+<Data name="openning">
+<value>Feb-07</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 39.719458,43.585446,2014</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_00024">
+				<name>Pyeongchang</name>
+				<Snippet/>
+				<ExtendedData>
+<Data name="city">
+<value>Pyeongchang</value>
+</Data>
+<Data name="lan">
+<value>37.370446</value>
+</Data>
+<Data name="lon">
+<value>128.389047</value>
+</Data>
+<Data name="country">
+<value> South Korea</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>23</value>
+</Data>
+<Data name="year">
+<value>2018</value>
+</Data>
+<Data name="openning">
+<value>Feb-09</value>
+</Data>
+</ExtendedData>  
+				<styleUrl>#IconStyle00</styleUrl>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates> 128.389047,37.370446,2018</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="IconStyle00">
+			<IconStyle>
+				<Icon>
+					<href>myres/kml/winter_icon.png</href>
+				</Icon>
+				<scale>0.003</scale>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<PolyStyle>
+				<color>ff000000</color>
+				<outline>0</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

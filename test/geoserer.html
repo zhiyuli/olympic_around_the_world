@@ -1,0 +1,72 @@
+<!-- This is a simple html page demonstrating adding a map to a page -->
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <!-- The style sheet here has some of the map styling for zooming buttons, etc. -->
+     <link rel="stylesheet" href="http://olympicsaroundtheworld.com/ol/v3.2.1/css/ol.css" type="text/css">
+   
+    <!-- This extra bit of style defines the size of the "map" div tag area that shows up later -->
+    <style>
+      .map {
+        height: 600px;
+        width: 600px;
+      }
+    </style>
+    
+    <!-- Here we link to the copy of the OpenLayers JavaScript source file that is on the openlayers.org site. -->
+    <script src="http://olympicsaroundtheworld.com/ol/v3.2.1/ol/ol/ol.js" type="text/javascript"></script>
+    
+    <!-- Specify the title for this web page that will appear in the browser title/tab area. -->
+    <title>OpenLayers 3 example: Cell Phone Locations in KML</title>
+  </head>
+  
+  <body>
+  	<!-- Show some information to the user using basic HTML -->
+    <h2>Cell Tower Locations with Custom Icons</h2>
+    
+    <!-- Specify a div tag area that will hold the map itself. -->
+    <div id="map" class="map"></div>
+    
+    <!-- Write the JavaScript code to build your map. -->
+    <script type="text/javascript">
+    
+    	//Here we are declaring the projection object for Web Mercator
+    	var projection = ol.proj.get('EPSG:3857');
+
+		//Here we are declaring the raster layer as a separate object to put in the map later
+		var raster = new ol.layer.Tile({
+  			source: new ol.source.BingMaps({
+    			imagerySet: 'Road',
+    			key: 'Ak-dzM4wZjSqTlzveKz5u0d4IQ4bRzVI309GxmkgSVr1ewS6iPSrOvOKhA-CJlm3'
+  			})
+		});
+      
+      	//Let's create another layer from a kml file. We'll call it "vector" but it could be called anything
+      	
+      	//var vector = new ol.layer.Vector({
+	  //		source: new ol.source.KML({
+    	//		projection: projection,
+    			//normally this kml file would be sitting on your server
+    	//		url: 'kml/celltowers.kml'
+  	//		})	
+	//	});
+
+
+      	//Declare the map object itself.
+      	var map = new ol.Map({
+        	target: 'map',
+        
+        	//Set up the layers that will be loaded in the map
+        	layers: [raster],
+        
+        	//Establish the view area. Note the reprojection from lat long (EPSG:4326) to Web Mercator (EPSG:3857)
+        	view: new ol.View({
+           		center: [-12500000, 5000000],
+    			projection: projection,
+    			zoom: 8
+        	})
+      	});
+    </script>
+  </body>
+</html>

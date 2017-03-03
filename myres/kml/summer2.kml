@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="'List of Olympic Host Cities$' Events">
+  <name>'List of Olympic Host Cities$' Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>'List of Olympic Host Cities$' Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Athens</name>
+      <Snippet></Snippet>
+      <ExtendedData>
+<Data name="city">
+<value>Athens</value>
+</Data>
+<Data name="lan">
+<value>37.98391667</value>
+</Data>
+<Data name="lon">
+<value>23.72935278</value>
+</Data>
+<Data name="country">
+<value> Greece</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>1</value>
+</Data>
+<Data name="year">
+<value>1896</value>
+</Data>
+<Data name="openning">
+<value>Apr-06</value>
+</Data>
+</ExtendedData>  
+
+     <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.72935277777778,37.98391666666667,1896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Paris</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Paris</value>
+</Data>
+<Data name="lan">
+<value>48.85661111</value>
+</Data>
+<Data name="lon">
+<value>2.352225</value>
+</Data>
+<Data name="country">
+<value> France</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>2</value>
+</Data>
+<Data name="year">
+<value>1900</value>
+</Data>
+<Data name="openning">
+<value>May-14</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.352225,48.85661111111111,1900</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>St. Louis</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>St. Louis</value>
+</Data>
+<Data name="lan">
+<value>38.62700556</value>
+</Data>
+<Data name="lon">
+<value>-90.19936389</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>3</value>
+</Data>
+<Data name="year">
+<value>1904</value>
+</Data>
+<Data name="openning">
+<value>Jul-01</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -90.1993638888889,38.62700555555556,1904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>London</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>London</value>
+</Data>
+<Data name="lan">
+<value>51.50718611</value>
+</Data>
+<Data name="lon">
+<value>-0.125813889</value>
+</Data>
+<Data name="country">
+<value> United Kingdom</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>4</value>
+</Data>
+<Data name="year">
+<value>1908</value>
+</Data>
+<Data name="openning">
+<value>Apr-27</value>
+</Data>
+</ExtendedData>  
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1258138888888889,51.50718611111111,1908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Stockholm</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Stockholm</value>
+</Data>
+<Data name="lan">
+<value>59.32931667</value>
+</Data>
+<Data name="lon">
+<value>18.06856111</value>
+</Data>
+<Data name="country">
+<value> Sweden</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>5</value>
+</Data>
+<Data name="year">
+<value>1912</value>
+</Data>
+<Data name="openning">
+<value>May-05</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 18.06856111111111,59.32931666666667,1912</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Berlin</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Berlin</value>
+</Data>
+<Data name="lan">
+<value>52.52001389</value>
+</Data>
+<Data name="lon">
+<value>13.40495833</value>
+</Data>
+<Data name="country">
+<value> Germany</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>6</value>
+</Data>
+<Data name="year">
+<value>1916</value>
+</Data>
+<Data name="openning">
+<value>Cancelled due to WWI</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 13.40495833333333,52.52001388888889,1916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Antwerp</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Antwerp</value>
+</Data>
+<Data name="lan">
+<value>51.21946389</value>
+</Data>
+<Data name="lon">
+<value>4.402583333</value>
+</Data>
+<Data name="country">
+<value> Belgium</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>7</value>
+</Data>
+<Data name="year">
+<value>1920</value>
+</Data>
+<Data name="openning">
+<value>Apr-20</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 4.402583333333333,51.21946388888889,1920</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Paris</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Paris</value>
+</Data>
+<Data name="lan">
+<value>48.85661389</value>
+</Data>
+<Data name="lon">
+<value>2.352222222</value>
+</Data>
+<Data name="country">
+<value> France</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>8</value>
+</Data>
+<Data name="year">
+<value>1924</value>
+</Data>
+<Data name="openning">
+<value>May-04</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.352222222222222,48.85661388888889,1924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Amsterdam</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Amsterdam</value>
+</Data>
+<Data name="lan">
+<value>52.37019722</value>
+</Data>
+<Data name="lon">
+<value>4.895183333</value>
+</Data>
+<Data name="country">
+<value> Netherlands</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>9</value>
+</Data>
+<Data name="year">
+<value>1928</value>
+</Data>
+<Data name="openning">
+<value>May-17</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 4.895183333333333,52.37019722222222,1928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Los Angeles</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Los Angeles</value>
+</Data>
+<Data name="lan">
+<value>34.05223333</value>
+</Data>
+<Data name="lon">
+<value>-118.2436861</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>10</value>
+</Data>
+<Data name="year">
+<value>1932</value>
+</Data>
+<Data name="openning">
+<value>Jul-30</value>
+</Data>
+</ExtendedData> 
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -118.2436861111111,34.05223333333333,1932</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Berlin</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Berlin</value>
+</Data>
+<Data name="lan">
+<value>52.51968889</value>
+</Data>
+<Data name="lon">
+<value>13.4048</value>
+</Data>
+<Data name="country">
+<value> Germany</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>11</value>
+</Data>
+<Data name="year">
+<value>1936</value>
+</Data>
+<Data name="openning">
+<value>Aug-01</value>
+</Data>
+</ExtendedData>  
+	
+	  <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 13.4048,52.51968888888889,1936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Tokyo</value>
+</Data>
+<Data name="lan">
+<value>35.68948889</value>
+</Data>
+<Data name="lon">
+<value>139.6917056</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>12</value>
+</Data>
+<Data name="year">
+<value>1940</value>
+</Data>
+<Data name="openning">
+<value>Cancelled due to WWII</value>
+</Data>
+</ExtendedData> 
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.6917055555556,35.68948888888889,1940</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>London</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>London</value>
+</Data>
+<Data name="lan">
+<value>51.50732778</value>
+</Data>
+<Data name="lon">
+<value>-0.127697222</value>
+</Data>
+<Data name="country">
+<value> United Kingdom</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>13</value>
+</Data>
+<Data name="year">
+<value>1944</value>
+</Data>
+<Data name="openning">
+<value>Cancelled due to WWII</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1276972222222222,51.50732777777778,1944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>London</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>London</value>
+</Data>
+<Data name="lan">
+<value>51.50732778</value>
+</Data>
+<Data name="lon">
+<value>-0.127697222</value>
+</Data>
+<Data name="country">
+<value> United Kingdom</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>14</value>
+</Data>
+<Data name="year">
+<value>1948</value>
+</Data>
+<Data name="openning">
+<value>Jul-29</value>
+</Data>
+</ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1276972222222222,51.50732777777778,1948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Helsinki</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Helsinki</value>
+</Data>
+<Data name="lan">
+<value>60.17330556</value>
+</Data>
+<Data name="lon">
+<value>24.93991389</value>
+</Data>
+<Data name="country">
+<value> Finland</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>15</value>
+</Data>
+<Data name="year">
+<value>1952</value>
+</Data>
+<Data name="openning">
+<value>Jul-19</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.93991388888889,60.17330555555555,1952</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Melbourne</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Melbourne</value>
+</Data>
+<Data name="lan">
+<value>-37.81410556</value>
+</Data>
+<Data name="lon">
+<value>144.963275</value>
+</Data>
+<Data name="country">
+<value> Australia</value>
+</Data>
+<Data name="continent">
+<value>Oceania</value>
+</Data>
+<Data name="number">
+<value>16</value>
+</Data>
+<Data name="year">
+<value>1956</value>
+</Data>
+<Data name="openning">
+<value>Nov-22</value>
+</Data>
+</ExtendedData>  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 144.963275,-37.81410555555555,1956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Stockholm</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Stockholm</value>
+</Data>
+<Data name="lan">
+<value>59.32930833</value>
+</Data>
+<Data name="lon">
+<value>18.06865833</value>
+</Data>
+<Data name="country">
+<value> Sweden</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>16</value>
+</Data>
+<Data name="year">
+<value>1956</value>
+</Data>
+<Data name="openning">
+<value>Jun-10</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 18.06865833333333,59.32930833333334,1956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Rome</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Rome</value>
+</Data>
+<Data name="lan">
+<value>41.90278333</value>
+</Data>
+<Data name="lon">
+<value>12.49636389</value>
+</Data>
+<Data name="country">
+<value> Italy</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>17</value>
+</Data>
+<Data name="year">
+<value>1960</value>
+</Data>
+<Data name="openning">
+<value>Aug-25</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 12.49636388888889,41.90278333333333,1960</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Tokyo</value>
+</Data>
+<Data name="lan">
+<value>35.68948889</value>
+</Data>
+<Data name="lon">
+<value>139.6916917</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>18</value>
+</Data>
+<Data name="year">
+<value>1964</value>
+</Data>
+<Data name="openning">
+<value>Oct-10</value>
+</Data>
+</ExtendedData> 
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.6916916666667,35.68948888888889,1964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Mexico City</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Mexico City</value>
+</Data>
+<Data name="lan">
+<value>19.43260833</value>
+</Data>
+<Data name="lon">
+<value>-99.13320833</value>
+</Data>
+<Data name="country">
+<value> Mexico</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>19</value>
+</Data>
+<Data name="year">
+<value>1968</value>
+</Data>
+<Data name="openning">
+<value>Oct-12</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.13320833333333,19.43260833333333,1968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Munich</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Munich</value>
+</Data>
+<Data name="lan">
+<value>11.582115</value>
+</Data>
+<Data name="lon">
+<value>48.135123</value>
+</Data>
+<Data name="country">
+<value>Germany</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>20</value>
+</Data>
+<Data name="year">
+<value>1972</value>
+</Data>
+<Data name="openning">
+<value>Sept-5</value>
+</Data>
+</ExtendedData>	  
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 11.582115,48.135123,1972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Montreal</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Montreal</value>
+</Data>
+<Data name="lan">
+<value>45.501689</value>
+</Data>
+<Data name="lon">
+<value>-73.567256</value>
+</Data>
+<Data name="country">
+<value> Canada</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>21</value>
+</Data>
+<Data name="year">
+<value>1976</value>
+</Data>
+<Data name="openning">
+<value>Jul-17</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.567256,45.501689,1976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Moscow</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Moscow</value>
+</Data>
+<Data name="lan">
+<value>55.755826</value>
+</Data>
+<Data name="lon">
+<value>37.6173</value>
+</Data>
+<Data name="country">
+<value> Soviet Union</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>22</value>
+</Data>
+<Data name="year">
+<value>1980</value>
+</Data>
+<Data name="openning">
+<value>Jul-19</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 37.6173,55.755826,1980</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Los Angeles</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Los Angeles</value>
+</Data>
+<Data name="lan">
+<value>34.052234</value>
+</Data>
+<Data name="lon">
+<value>-118.243685</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>23</value>
+</Data>
+<Data name="year">
+<value>1984</value>
+</Data>
+<Data name="openning">
+<value>Jul-28</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -118.243685,34.052234,1984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Seoul</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Seoul</value>
+</Data>
+<Data name="lan">
+<value>37.566535</value>
+</Data>
+<Data name="lon">
+<value>126.977969</value>
+</Data>
+<Data name="country">
+<value> South Korea</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>24</value>
+</Data>
+<Data name="year">
+<value>1988</value>
+</Data>
+<Data name="openning">
+<value>Sep-17</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 126.977969,37.566535,1988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Barcelona</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Barcelona</value>
+</Data>
+<Data name="lan">
+<value>41.385064</value>
+</Data>
+<Data name="lon">
+<value>2.173404</value>
+</Data>
+<Data name="country">
+<value> Spain</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>25</value>
+</Data>
+<Data name="year">
+<value>1992</value>
+</Data>
+<Data name="openning">
+<value>Jul-25</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.173404,41.385064,1992</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Atlanta</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Atlanta</value>
+</Data>
+<Data name="lan">
+<value>33.748999</value>
+</Data>
+<Data name="lon">
+<value>-84.387968</value>
+</Data>
+<Data name="country">
+<value> United States</value>
+</Data>
+<Data name="continent">
+<value>North America</value>
+</Data>
+<Data name="number">
+<value>26</value>
+</Data>
+<Data name="year">
+<value>1996</value>
+</Data>
+<Data name="openning">
+<value>Jul-19</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -84.387968,33.748999,1996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Sydney</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Sydney</value>
+</Data>
+<Data name="lan">
+<value>-33.867431</value>
+</Data>
+<Data name="lon">
+<value>151.206977</value>
+</Data>
+<Data name="country">
+<value> Australia</value>
+</Data>
+<Data name="continent">
+<value>Oceania</value>
+</Data>
+<Data name="number">
+<value>27</value>
+</Data>
+<Data name="year">
+<value>2000</value>
+</Data>
+<Data name="openning">
+<value>Sep-15</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 151.206977,-33.867431,2000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Athens</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Athens</value>
+</Data>
+<Data name="lan">
+<value>37.983917</value>
+</Data>
+<Data name="lon">
+<value>23.72936</value>
+</Data>
+<Data name="country">
+<value> Greece</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>28</value>
+</Data>
+<Data name="year">
+<value>2004</value>
+</Data>
+<Data name="openning">
+<value>Aug-13</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.72936,37.983917,2004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Beijing</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Beijing</value>
+</Data>
+<Data name="lan">
+<value>39.904211</value>
+</Data>
+<Data name="lon">
+<value>116.407395</value>
+</Data>
+<Data name="country">
+<value> China</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>29</value>
+</Data>
+<Data name="year">
+<value>2008</value>
+</Data>
+<Data name="openning">
+<value>Aug-08</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 116.407395,39.904211,2008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>London</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>London</value>
+</Data>
+<Data name="lan">
+<value>51.507351</value>
+</Data>
+<Data name="lon">
+<value>-0.127758</value>
+</Data>
+<Data name="country">
+<value> United Kingdom</value>
+</Data>
+<Data name="continent">
+<value>Europe</value>
+</Data>
+<Data name="number">
+<value>30</value>
+</Data>
+<Data name="year">
+<value>2012</value>
+</Data>
+<Data name="openning">
+<value>Jul-27</value>
+</Data>
+</ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.127758,51.507351,2012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Rio de Janeiro</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Rio de Janeiro</value>
+</Data>
+<Data name="lan">
+<value>-22.906847</value>
+</Data>
+<Data name="lon">
+<value>-43.172896</value>
+</Data>
+<Data name="country">
+<value> Brazil</value>
+</Data>
+<Data name="continent">
+<value>South America</value>
+</Data>
+<Data name="number">
+<value>31</value>
+</Data>
+<Data name="year">
+<value>2016</value>
+</Data>
+<Data name="openning">
+<value>Aug-05</value>
+</Data>
+</ExtendedData> 
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -43.172896,-22.906847,2016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Tokyo</name>
+      <Snippet></Snippet>
+<ExtendedData>
+<Data name="city">
+<value>Tokyo</value>
+</Data>
+<Data name="lan">
+<value>35.689488</value>
+</Data>
+<Data name="lon">
+<value>139.691706</value>
+</Data>
+<Data name="country">
+<value> Japan</value>
+</Data>
+<Data name="continent">
+<value>Asia</value>
+</Data>
+<Data name="number">
+<value>32</value>
+</Data>
+<Data name="year">
+<value>2020</value>
+</Data>
+<Data name="openning">
+<value>Jul-24</value>
+</Data>
+</ExtendedData>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.691706,35.689488,2020</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>myres/kml/summer_icon.png</href></Icon>
+      <scale>0.01</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
